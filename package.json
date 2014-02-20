@@ -1,0 +1,11 @@
+{
+  "name": "juliangruber-analyzer",
+  "description": "A WebAudio analyzer node",
+  "version": "0.2.0",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
+  },
+  "license": "MIT"
+}
